@@ -1,0 +1,2 @@
+# ConstantsManager
+ABAP Constants Manager
